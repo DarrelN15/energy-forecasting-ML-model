@@ -11,7 +11,7 @@ This project builds a **Random Forest Regressor** to predict **power plant energ
 
 🎯 **Goal**: Optimize energy efficiency and reduce operational costs by improving energy output predictions.
 
-🔗 **Colab Notebook**: [Run in Google Colab](YOUR_COLAB_LINK)
+🔗 **Colab Notebook**: [Run in Google Colab](https://colab.research.google.com/drive/1yZ_mJ3MWhYQbYGA_SMqSLoUMR137ONES?usp=sharing)
 
 ---
 
@@ -94,7 +94,7 @@ plt.show()
 ---
 
 ## 📂 How to Use This Project
-1. Open the **Google Colab Notebook**: [Run Here](YOUR_COLAB_LINK)
+1. Open the **Google Colab Notebook**: [Run Here](https://colab.research.google.com/drive/1yZ_mJ3MWhYQbYGA_SMqSLoUMR137ONES?usp=sharing)
 2. Upload the dataset (`CCPP_data.csv`) to Colab or host it on Google Drive
 3. Run all code cells to preprocess data, train models, and evaluate results
 
